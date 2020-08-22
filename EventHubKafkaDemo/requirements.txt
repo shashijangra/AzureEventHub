@@ -1,0 +1,8 @@
+git
+openssl
+libssl-dev
+build-essential
+python-pip
+python-dev
+librdkafka-dev
+confluent-kafka
